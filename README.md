@@ -1,6 +1,6 @@
 # Certbot plugin for authentication using Domreg
 
-This is a plugin for [Certbot](https://certbot.eff.org/) that uses the Domreg web portal to allow Telekom customers to prove control of a domain name.
+This is a plugin for [Certbot](https://certbot.eff.org/) that uses the Domreg(domain.telekom.hu or domain.t-systems.hu) web portal to allow Telekom customers to prove control of a domain name.
 
 ## Usage
 
